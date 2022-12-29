@@ -1,0 +1,6 @@
+framework module SGBase {
+  umbrella header "SGBase-umbrella.h"
+
+  export *
+  module * { export * }
+}

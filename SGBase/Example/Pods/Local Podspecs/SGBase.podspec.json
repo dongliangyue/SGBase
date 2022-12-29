@@ -1,0 +1,22 @@
+{
+  "name": "SGBase",
+  "version": "0.1.0",
+  "summary": "A short description of SGBase.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dongliangyue/SGBase",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dongliangyue": "274030259@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/dongliangyue/SGBase.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SGBase/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - SGBase (0.1.0)
+
+DEPENDENCIES:
+  - SGBase (from `../`)
+
+EXTERNAL SOURCES:
+  SGBase:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SGBase: 80c5c69a42deaaabd53e884687d96e3f7c5e0690
+
+PODFILE CHECKSUM: e5ba6c99edaa1247024bb772ae5b1160b2db42db
+
+COCOAPODS: 1.11.3

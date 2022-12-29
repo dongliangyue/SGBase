@@ -1,0 +1,6 @@
+framework module Pods_SGBase_Example {
+  umbrella header "Pods-SGBase_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

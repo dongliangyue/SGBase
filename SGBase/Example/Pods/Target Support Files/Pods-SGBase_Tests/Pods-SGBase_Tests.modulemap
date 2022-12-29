@@ -1,0 +1,6 @@
+framework module Pods_SGBase_Tests {
+  umbrella header "Pods-SGBase_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
